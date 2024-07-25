@@ -1,11 +1,10 @@
 {
     "version": "0.2.0",
     "notes": "Update to 0.2.0",
-    "pub_date": "2020-09-18T12:29:53+01:00",
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbCtwTmo3L2EzcUVrMGtlTGxZWmF0djRCenpVUU1oU2hYZnlXbTFQRlUvd3FCdkRWaWVOb1JndlR0eWwzQmsrM1pZdUdLTUtwSllvNWJvYTdrQ0o3WUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIxOTEyODMyCWZpbGU6YXRzZS1hdXRvY2FsLWFwcF8wLjEuMF94NjRfZW4tVVMubXNpLnppcApIYUV6RElnM0tLZ1JSNWozbDlsUkxTajZrVEV3S0Y4M3JGajVEWGtROHlTY1F3OTJzaTUxMmFVT0tUSDRuOHdMSitpa2h5K1c3MXFSRmlCLzdPdVZDdz09Cg==",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/atse-autocal-app_0.1.0_x64_en-US.msi"
+        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/atse-autocal-app_0.1.0_x64_en-US.msi.zip"
       }
     }
   }
