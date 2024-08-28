@@ -1,17 +1,17 @@
   {
-    "version": "1.0.0",
-    "notes": "Welcome to the new version of ATSE-Autocal-App!",
+    "version": "1.0.1",
+    "notes": "Update to 1.0.1",
     "platforms": {
       "linux-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDNKY2tNMDVmQlNvK05OemZtaE04aURaM0h4M0pWc0Qzc0hPb2xSREZJZENnWGc1SVFlVTRGcmc5TWsyZ0ZDNFR1Wnp0Sk5EdlpRUFZ3WlkrYUNVaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTE0NTYyCWZpbGU6QUNNU18xLjAuMF94NjQtc2V0dXAuZXhlCjB1aEY1c1AwOWNOVi9YYTl6M3FrR0s4N0FMdUUzRSthbDJsZ1Y5TUd6T3FDZk9vTExRNWhPdWFjaFZjZFp0eVZOZ2NaVmFzWm9SSWgrQW9CckVZWkF3PT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbC9kbER2d2lvcjV4MVJGNGIxdU5ia1BMcXc2Vkw0SnBNL1RwMHU0ZW5adTd1YlFaRXNOUy9xNFVNMDJleDB6c24xSDArMHNrOUwweGFrU2R4b2NRcndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODU5MjgzCWZpbGU6QUNNU18xLjAuMV94NjQtc2V0dXAuZXhlCjZ4V0t0VWRodk5rYU5pL2hVeTlST3dRb21FR2pvRS9yTEgzNkpsZ2NYemEvbUdTdDg4bzUwK1EwVzBlU3M2bERPdmZ1UFlIbFZ1dndvUEE0MmV4SURnPT0K",
         "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDNKY2tNMDVmQlNvK05OemZtaE04aURaM0h4M0pWc0Qzc0hPb2xSREZJZENnWGc1SVFlVTRGcmc5TWsyZ0ZDNFR1Wnp0Sk5EdlpRUFZ3WlkrYUNVaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTE0NTYyCWZpbGU6QUNNU18xLjAuMF94NjQtc2V0dXAuZXhlCjB1aEY1c1AwOWNOVi9YYTl6M3FrR0s4N0FMdUUzRSthbDJsZ1Y5TUd6T3FDZk9vTExRNWhPdWFjaFZjZFp0eVZOZ2NaVmFzWm9SSWgrQW9CckVZWkF3PT0K",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/debug/ACMS_1.0.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbC9kbER2d2lvcjV4MVJGNGIxdU5ia1BMcXc2Vkw0SnBNL1RwMHU0ZW5adTd1YlFaRXNOUy9xNFVNMDJleDB6c24xSDArMHNrOUwweGFrU2R4b2NRcndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODU5MjgzCWZpbGU6QUNNU18xLjAuMV94NjQtc2V0dXAuZXhlCjZ4V0t0VWRodk5rYU5pL2hVeTlST3dRb21FR2pvRS9yTEgzNkpsZ2NYemEvbUdTdDg4bzUwK1EwVzBlU3M2bERPdmZ1UFlIbFZ1dndvUEE0MmV4SURnPT0K",
+        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/debug/ACMS_1.0.1_x64-setup.exe"
       },
       "darwin-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDNKY2tNMDVmQlNvK05OemZtaE04aURaM0h4M0pWc0Qzc0hPb2xSREZJZENnWGc1SVFlVTRGcmc5TWsyZ0ZDNFR1Wnp0Sk5EdlpRUFZ3WlkrYUNVaWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0MTE0NTYyCWZpbGU6QUNNU18xLjAuMF94NjQtc2V0dXAuZXhlCjB1aEY1c1AwOWNOVi9YYTl6M3FrR0s4N0FMdUUzRSthbDJsZ1Y5TUd6T3FDZk9vTExRNWhPdWFjaFZjZFp0eVZOZ2NaVmFzWm9SSWgrQW9CckVZWkF3PT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbC9kbER2d2lvcjV4MVJGNGIxdU5ia1BMcXc2Vkw0SnBNL1RwMHU0ZW5adTd1YlFaRXNOUy9xNFVNMDJleDB6c24xSDArMHNrOUwweGFrU2R4b2NRcndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI0ODU5MjgzCWZpbGU6QUNNU18xLjAuMV94NjQtc2V0dXAuZXhlCjZ4V0t0VWRodk5rYU5pL2hVeTlST3dRb21FR2pvRS9yTEgzNkpsZ2NYemEvbUdTdDg4bzUwK1EwVzBlU3M2bERPdmZ1UFlIbFZ1dndvUEE0MmV4SURnPT0K",
         "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
       }
     }
