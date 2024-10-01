@@ -1,17 +1,17 @@
   {
-    "version": "1.0.2",
-    "notes": "Update to 1.0.2",
+    "version": "1.0.3",
+    "notes": "Update to 1.0.3",
     "platforms": {
       "linux-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDh0cnErejFpMkNIRWtaWWtsTHlBMGowRFJid0VUOGRwQk8wbUFoalp6ZS9XSWZhbXI4RHozL2RtSE9mTDRiWllFU053M1VuV0haekdCVGh3VWJOV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NTkwNDI0CWZpbGU6QUNNU18xLjAuMl94NjQtc2V0dXAuZXhlCllmRThneGh6ZktTYTk4MERpOVhIWFRMcWFQd2sxYmUrbjFraVhWcldpWEZZUjBLSFB0UkpQQ2dzbHpHL1prM1gzcVpNN0NaSlJzalpuVFhFbTdUSkNRPT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHpDSnExeGRPZTA4S2l0RDFhMHJ2bnZhOVdjQjBKRkR2K2xWQWhqell0MWw1RzFQKzlGeGtJdk9iS3YxUmx1TWZCSVRUSXgwSldaZys5OTZKU1BhTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NzQyMTA2CWZpbGU6QUNNU18xLjAuM194NjQtc2V0dXAuZXhlCkVQSUhwNzd2YmJvY1dZN0NRS01wcjNYRTFmOGpqL1FWZk0rMy95SkFDQWhuaGxoT041ejJ4L1FMWTNhWlVYV1VVQUxtdjU2Nm5KRjQ4KzZ5NHRNa0NBPT0K",
         "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
       },
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDh0cnErejFpMkNIRWtaWWtsTHlBMGowRFJid0VUOGRwQk8wbUFoalp6ZS9XSWZhbXI4RHozL2RtSE9mTDRiWllFU053M1VuV0haekdCVGh3VWJOV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NTkwNDI0CWZpbGU6QUNNU18xLjAuMl94NjQtc2V0dXAuZXhlCllmRThneGh6ZktTYTk4MERpOVhIWFRMcWFQd2sxYmUrbjFraVhWcldpWEZZUjBLSFB0UkpQQ2dzbHpHL1prM1gzcVpNN0NaSlJzalpuVFhFbTdUSkNRPT0K",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/debug/ACMS_1.0.2_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHpDSnExeGRPZTA4S2l0RDFhMHJ2bnZhOVdjQjBKRkR2K2xWQWhqell0MWw1RzFQKzlGeGtJdk9iS3YxUmx1TWZCSVRUSXgwSldaZys5OTZKU1BhTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NzQyMTA2CWZpbGU6QUNNU18xLjAuM194NjQtc2V0dXAuZXhlCkVQSUhwNzd2YmJvY1dZN0NRS01wcjNYRTFmOGpqL1FWZk0rMy95SkFDQWhuaGxoT041ejJ4L1FMWTNhWlVYV1VVQUxtdjU2Nm5KRjQ4KzZ5NHRNa0NBPT0K",
+        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/ACMS_1.0.3_x64-setup.exe"
       },
       "darwin-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbDh0cnErejFpMkNIRWtaWWtsTHlBMGowRFJid0VUOGRwQk8wbUFoalp6ZS9XSWZhbXI4RHozL2RtSE9mTDRiWllFU053M1VuV0haekdCVGh3VWJOV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI1NTkwNDI0CWZpbGU6QUNNU18xLjAuMl94NjQtc2V0dXAuZXhlCllmRThneGh6ZktTYTk4MERpOVhIWFRMcWFQd2sxYmUrbjFraVhWcldpWEZZUjBLSFB0UkpQQ2dzbHpHL1prM1gzcVpNN0NaSlJzalpuVFhFbTdUSkNRPT0K",
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHpDSnExeGRPZTA4S2l0RDFhMHJ2bnZhOVdjQjBKRkR2K2xWQWhqell0MWw1RzFQKzlGeGtJdk9iS3YxUmx1TWZCSVRUSXgwSldaZys5OTZKU1BhTlFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3NzQyMTA2CWZpbGU6QUNNU18xLjAuM194NjQtc2V0dXAuZXhlCkVQSUhwNzd2YmJvY1dZN0NRS01wcjNYRTFmOGpqL1FWZk0rMy95SkFDQWhuaGxoT041ejJ4L1FMWTNhWlVYV1VVQUxtdjU2Nm5KRjQ4KzZ5NHRNa0NBPT0K",
         "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
       }
     }
