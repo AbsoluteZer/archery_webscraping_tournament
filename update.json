@@ -1,18 +1,11 @@
-  {
-    "version": "1.1.1",
-    "notes": "Update to 1.1.1",
-    "platforms": {
-      "linux-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHkrSjlHRzJGOUF5bVpkU0lIbCtRYkhiSXpibWlFbXFGQzROVUxmTkptbWtwcE5FTlgvckozTVNhWnZsVHpIQTF3c25kWnhmTnZ0cW5HOEd2WWlPQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NDUxMzg3CWZpbGU6QUNNU18xLjEuMV94NjQtc2V0dXAuZXhlCmJKeGV1SzR2Wms3TDdISlZja1I2THhUOUNoRTJlQ3l2UlV3RVNkS2R6OHpobXdzZ0hTY21wb1FYRFFWZ1BZdzV3ajdBQjhmWUJ5eFVCWHpPR2QzdUJ3PT0K",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
-      },
-      "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHkrSjlHRzJGOUF5bVpkU0lIbCtRYkhiSXpibWlFbXFGQzROVUxmTkptbWtwcE5FTlgvckozTVNhWnZsVHpIQTF3c25kWnhmTnZ0cW5HOEd2WWlPQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NDUxMzg3CWZpbGU6QUNNU18xLjEuMV94NjQtc2V0dXAuZXhlCmJKeGV1SzR2Wms3TDdISlZja1I2THhUOUNoRTJlQ3l2UlV3RVNkS2R6OHpobXdzZ0hTY21wb1FYRFFWZ1BZdzV3ajdBQjhmWUJ5eFVCWHpPR2QzdUJ3PT0K",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/raw/main/ACMS_1.1.1_x64-setup.exe"
-      },
-      "darwin-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHkrSjlHRzJGOUF5bVpkU0lIbCtRYkhiSXpibWlFbXFGQzROVUxmTkptbWtwcE5FTlgvckozTVNhWnZsVHpIQTF3c25kWnhmTnZ0cW5HOEd2WWlPQXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NDUxMzg3CWZpbGU6QUNNU18xLjEuMV94NjQtc2V0dXAuZXhlCmJKeGV1SzR2Wms3TDdISlZja1I2THhUOUNoRTJlQ3l2UlV3RVNkS2R6OHpobXdzZ0hTY21wb1FYRFFWZ1BZdzV3ajdBQjhmWUJ5eFVCWHpPR2QzdUJ3PT0K",
-        "url": "https://github.com/AbsoluteZer/archery_webscraping_tournament/not-available"
-      }
+{
+  "version": "1.1.2",
+  "notes": "This is an automated update. Please follow the documentation that you received.",
+  "pub_date": "2024-11-19T08:04:48.484Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYkR1VVZWMzUxbHpEM1k0YlIxRisvV3kvNWU2ZVhIRVJ2NGYxZHBCMW5RVHUvVmlicWxNZzlWTDNBbEQwSmdBNVBPTVA5dVYwWkdwWXB2cCtDeGpQcnRRem1MRXdpaVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyMDAzNDc1CWZpbGU6QUNNU18xLjEuMl94NjQtc2V0dXAuZXhlCnl3TG5IUW1SeDFKOXp5OWtzajB2VSsySkhPcGI4Ulh2ejJKeGZlbGFjZkVTUWc3eUtrSnE2a25vcXB4R0JuelUrcWc3ZkxuYWhReGFjRFhkZlBFMkRnPT0K",
+      "url": "https://github.com/ADAProAI/adapro-cal/releases/download/app-v1.1.2/ACMS_1.1.2_x64-setup.exe"
     }
   }
+}
